@@ -1,5 +1,8 @@
 _repo: Es-mi-hombre-Tragedia-grotesca-en-tres-actos_67895
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67895-h/images/cover.jpg
 creator:
   author:
     agent_name: Arniches y Barrera, Carlos
@@ -15,6 +18,8 @@ creator:
     - https://es.wikipedia.org/wiki/Carlos_Arniches
     - https://en.wikipedia.org/wiki/Carlos_Arniches
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67895#Es-mi-hombre-Tragedia-grotesca-en-tres-actos
 gutenberg_issued: '2022-04-21'
 identifiers:
   gutenberg: '67895'
